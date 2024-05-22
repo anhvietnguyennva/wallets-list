@@ -122,11 +122,11 @@
     "platforms": ["chrome"]
   },
   {
-    "app_name": "tobi-wallet",
-    "name": "Tobi Wallet",
-    "image": "https://app.tobiwallet.app/icons/logo.jpg",
-    "about_url": "https://tobiwallet.io",
-    "universal_url": "https://t.me/TobiWalletBot",
+    "app_name": "tobi-token-bot",
+    "name": "Tobi",
+    "image": "https://app.tobiwallet.app/icons/logo.png",
+    "about_url": "https://tobi.fun",
+    "universal_url": "https://t.me/TobiWalletBot/wallet",
     "bridge": [
       {
         "type": "sse",
